@@ -3,8 +3,6 @@ This serves as a personal documentation of the things that happened during the c
 ## Sprint One
 #### Introduction
 For sprint one: we met with clients, decided on a tool, formed our team, created documentation, performed a literature review, and began to look into our tool of choice, MagicDraw.
-#### Backlog
-(picture of backlog)
 #### My Tasks
 In this sprint, I worked on the initial documentation and worked on the literature review (MBSE Section) (Link to confluence). 
 #### Blockers
@@ -16,6 +14,40 @@ We also had issues when trying to scope our problem and decide exactly what our 
 #### Introduction
 In this sprint, we began to get more deeply into the MagicGrid Framework, and began work on our models.
 #### Backlog
-(picture of backlog)
-#### My Tasks
-So far, I have been working on the 'conceptual subsystems' model.
+![Sprint 2 Backlog](./resources/sprint2_sc.png)
+#### Description
+Originally, we planned for me and Walter to work on the conceptual subsystem 
+within the system structure column. We worked on this for a while but found
+it difficult to vizualize what components may be included in a "generic system",
+as many systems could be considered too general (not useful) or as part of the 
+implementation (too specific). 
+
+Following this, we discussed our blocker with the stakeholder and decided
+to pivot a bit in our approach. We decided, instead of assuming and entirely
+generic model, to generate our own 'likely' stakeholder needs largly based on 
+NASA's Gateway Spacecraft. This helped us not have to worry about what is/isn't
+'generic enough' for the system. 
+
+We generated the following requirements using this approach (first draft):
+![Stakeholder needs](./resources/stakeholder.png)
+
+We then used these to think to refine the external systems:
+![Context Model](./resources/context.png)
+
+Next, we created a sample use case for our stakeholder to review:
+![usecase](./resources/usecase.png)
+![scenario](./resources/scenario.png)
+
+Lastly, we started working on (but did not yet complete) the Measures of Effectiveness.
+
+#### Reflection
+In this sprint, my task was mainly to work on the use case and scenario. However,
+a majority of our work was done using a whiteboard/open room approach. We held 
+frequent meetings (2-3 times per week outside of class) and utilized round
+table discussion in both making models and working on the documentation. I believe 
+it was a slower, but much better approach to finishing our work.
+
+#### Next Sprint
+In sprint 3, we hope to finish the problem domain and will be able to present
+a finished model and describe the complex interlinking between them.
+
