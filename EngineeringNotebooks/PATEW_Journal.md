@@ -51,3 +51,17 @@ it was a slower, but much better approach to finishing our work.
 In sprint 3, we hope to finish the problem domain and will be able to present
 a finished model and describe the complex interlinking between them.
 
+## Sprint Three
+In this sprint, I worked mainly on the functional analysis model as well as generating
+requirements for version 3 of the SRS. As a team, we decided that some of our previous
+models needed further iteration.
+
+Here was our backlog for the sprint:
+(paste from windows)
+![backlog3](./resources/backlog3.png)
+
+We were able to remake a few of ours and also began work on the new ones. I think that we will
+reach our final goal of delivering the project domain of the CCS by the end of the semester
+
+## Final Reflection
+(to be written after project completion
