@@ -56,12 +56,11 @@ In this sprint, I worked mainly on the functional analysis model as well as gene
 requirements for version 3 of the SRS. As a team, we decided that some of our previous
 models needed further iteration.
 
-Here was our backlog for the sprint:
-(paste from windows)
-![backlog3](./resources/backlog3.png)
-
 We were able to remake a few of ours and also began work on the new ones. I think that we will
-reach our final goal of delivering the project domain of the CCS by the end of the semester
+reach our final goal of delivering the project domain of the CCS by the end of the semester.
+
+#### End of semester
+During this sprint we had a lot of blockers but we were able to finish everything on time. My main tasks this sprint were wokring on the new scenario, functional analysis, and generating requirements of our team as a customer of MagicDraw and MBSE.
 
 ## Final Reflection
-(to be written after project completion
+Overall, this project served as a great learning expirence for me. Before this class I only learned UML-style modeling, and only as a precursor to implementing a solution. In this class, I worked exclusively on the design portion of the ccs system, and needed to fully flesh out our model without wriitng any code. I think this project allowed me to learn more about the SYSE process but also made me better at SE, specifically when it comes to eliciting requirements and validating our models.
