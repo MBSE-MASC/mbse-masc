@@ -51,3 +51,34 @@ and accelarate the progress.
 
 
 ## Sprint 3
+
+Tasks part of
+
+* SDD Final Version
+* SRS Final Version
+* Use Case Scenario Diagram(Activity Diagram)
+* Functional Analysis Diagram
+* Helped with the development of MoEs Diagram 
+* Rework on already designed diagrams.
+* End of semester presentation. 
+
+Sprint 3 was the sprint the team was able to split the work between the team members.
+Previous sprints, the team didn't have experience with the tool so we spent 
+lots of time just trying to figure out functionalities of the MagicDraw tool. 
+I was given the task to on 2 digrams, Activity Diagram and Functional Analysis
+along with another team member, and helped on the creating on one more, MoEs. 
+Each diagram took a lot of time to integrate as we found lots of inconsistencies,
+and we found ourselves going back to some already done diagrams to reflect our 
+new findings. The good side is that MagicDraw does a good job at iteration work.
+By this I mean that when ever we made a change in a parent diagram, such as the 
+Context Diagram, the changes will reflect to the proceeding diagrams, if any 
+resources were re-used. 
+
+## End of Semester
+
+Overall this semester was a challenge to the team seeing that none of us
+had any previous experience with MBSE. We spent sprint 1 trying to get the 
+appropriate resources such as the licenses for the tool. This carried to the 
+first part of Sprint 2. Nonetheless, the team did necessary research 
+to get used to the "MBSE ways" seeing that our background was more heavily
+in UML. We came out this sprint respecting system engineers 
