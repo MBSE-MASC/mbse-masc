@@ -1,6 +1,6 @@
 01/23/2024 Product Vision Statement
-The Model-Based Systems Engineering (MBSE) Avionics System Capstone (MASC) team will be continuing work from CS 490 on a systems model of a generic Crewed Space Station (CSS). 
-The CSS will be modelled with SysML with the Dassault Systemes MagicDraw™ software following the MagicGrid™ methodology published by Dassault Systems. The MASC team will model
-the Avionics system of the CSS to a sufficient extented in the white-box perspective of the problem domain, to generate conceptual Failure-Mode Effects Analysis (FMEA) data using
-the Dassault Systemes Safety and Reliability Toolbox™. The deliverables in this semester will be a detailed conceptual model of a CSS avionics system, using the SysML language,
-and an FMEA report of the CSS, which demonstrates the application of systems modelling to FMEA and safety related system analysis.
+The Model-Based Systems Engineering (MBSE) Avionics System Capstone (MASC) team will be continuing work from CS 490 on a systems model of a generic Crewed Cislunar Station (CCS). 
+The CCS will be modelled with SysML with the Dassault Systemes MagicDraw™ software following the MagicGrid™ methodology published by Dassault Systems. The MASC team will model
+the Avionics system of the CCS to a sufficient extented in the white-box perspective of the problem domain, to generate conceptual Failure-Mode Effects Analysis (FMEA) data using
+the Dassault Systemes Safety and Reliability Toolbox™. The deliverables in this semester will be a detailed conceptual model of a CCS avionics system, using the SysML language,
+and an FMEA report of the CCS, which demonstrates the application of systems modelling to FMEA and safety related system analysis.
