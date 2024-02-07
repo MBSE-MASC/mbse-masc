@@ -1,6 +1,23 @@
 # Clay's Engineering Notebook
 This serves as a personal documentation of the things that happened during the course of the semester.
-## Sprint One
+
+## Semester Two
+
+### Sprint One
+Coming into the new semester, our focus was on recreating some of the previous models with new influence from our customer and researching the FMEA plugin for our system.
+
+#### My tasks
+My main focus was working with Luke on redoing the models. We used previous feedback and made needed changes to prepare our final problem domain for analysis
+
+#### Blockers
+Our main blocker this sprint was dealing with new, changing schedules and trying to reevaluate on what our team's priorities should be. There were a couple of directions that we have to evaluate and decide between for the rest of our work.
+
+Photo of old / new diagrams:
+![Model Redo](./resources/model_redo.png)
+
+
+## Semester One
+### Sprint One
 #### Introduction
 For sprint one: we met with clients, decided on a tool, formed our team, created documentation, performed a literature review, and began to look into our tool of choice, MagicDraw.
 #### My Tasks
@@ -10,7 +27,7 @@ We had a few issues with getting our licenses for the tool, which delayed our st
 We also had issues when trying to scope our problem and decide exactly what our domain should be. We switched clients part way through, which also caused some setbacks.
 
 
-## Sprint Two
+### Sprint Two
 #### Introduction
 In this sprint, we began to get more deeply into the MagicGrid Framework, and began work on our models.
 #### Backlog
@@ -51,7 +68,7 @@ it was a slower, but much better approach to finishing our work.
 In sprint 3, we hope to finish the problem domain and will be able to present
 a finished model and describe the complex interlinking between them.
 
-## Sprint Three
+### Sprint Three
 In this sprint, I worked mainly on the functional analysis model as well as generating
 requirements for version 3 of the SRS. As a team, we decided that some of our previous
 models needed further iteration.
