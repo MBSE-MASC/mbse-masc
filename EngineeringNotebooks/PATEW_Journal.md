@@ -13,7 +13,7 @@ My main focus was working with Luke on redoing the models. We used previous feed
 Our main blocker this sprint was dealing with new, changing schedules and trying to reevaluate on what our team's priorities should be. There were a couple of directions that we have to evaluate and decide between for the rest of our work.
 
 Photo of old / new diagrams:
-![Model Redo](./resources/model_redo.png)
+![Model Redo](./resources/model_redo.PNG)
 
 
 ## Semester One
