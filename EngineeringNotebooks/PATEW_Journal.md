@@ -1,5 +1,5 @@
 # Clay's Engineering Notebook
-This serves as a personal documentation of the things that happened during the course of the semester.
+This serves as a personal documentation of the things that happened during the course of the semester. Semester two is listed above semester one for ease of reading.
 
 ## Semester Two
 
@@ -15,6 +15,12 @@ Our main blocker this sprint was dealing with new, changing schedules and trying
 Photo of old / new diagrams:
 ![Model Redo](./resources/model_redo.PNG)
 
+#### Reflection
+Although this semester started a bit slow on tasks, we met with our customer multiple times and were able to get a very strong start on this semester. I think we will be able to easily accompish the overall goals we set for this semester. Next sprint, we will begin implementing the FMEA analysis plugin and will hopefully be able to generate an accurate fault tree for our model!
+
+Number of client meetings: ~3
+Number of team meetings: ~8
+Next Priority: Learn FMEA tool
 
 ## Semester One
 ### Sprint One
