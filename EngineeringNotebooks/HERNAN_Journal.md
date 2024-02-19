@@ -3,6 +3,55 @@
 This notebook's purpose is to keep track of my work done in the project and for the team.
 
 
+# Semester 2 Journal 
+
+## Sprint 1 
+
+Tasks part of
+
+* Met with customer 
+* Got the final product vision for semester
+* Got final feedback for models 
+* Remake of models 
+* Research on FMEA plugin
+
+**01/12/2024**
+* First customer meeting of the semester
+* Established final goals for the semester
+* Feedback on last semester deliverables
+
+**01/15/2024**
+* Started the rework of models 
+* Plan on how to remodel all the models
+
+**01/20/2024**
+* Started research on the FMEA plugin 
+* Read papers and some lit review on the topic
+
+**01/30/2024**
+* A basic understanding of FMEA was reached and presented to team 
+* Most models were remade
+
+**02/13/2024**
+* Spoke to Kathryn(customer) to get feedback on newer models and begin the FMEA process
+* All models were good, with minor tweaks
+
+
+In this sprint, the team started by having a meeting our customer to decide on what we needed to do for the semester. We looked over what we did last semester, got some feedback, and then we go to work on redoing our models based on what we learned. Alongside that, I started digging into this FMEA plugin – a bunch of reading and trying to wrap my head around it. By the end of the month, I got a decent grip on FMEA and shared the gist with the team. Most of the models were already in a good place by then. Fast forward to mid-February, and after a catch-up with Kathryn, our customer, it turns out we're on the right track with the models, just needed a few tweaks here and there.
+
+## Sprint 2
+
+**02/14/2024**
+* Worked on the small model mistakes shown by Kathryn.
+* Started producing requirements based on stakeholder needs for both the subsystem level and component level of the system. 
+
+**02/15/2024**
+* Met with Kathryn once more to check on the generated requirements
+* Workstation to understand the FMEA plugin
+* Started the FMEA work 
+
+
+
 # Semester 1 Journal 
 ## Sprint 1
 
@@ -137,51 +186,3 @@ first part of Sprint 2. Nonetheless, the team did necessary research
 to get used to the "MBSE ways" seeing that our background was more heavily
 in UML. We came out this sprint respecting system engineers 
 
-
-
-# Semester 2 Journal 
-
-## Sprint 1 
-
-Tasks part of
-
-* Met with customer 
-* Got the final product vision for semester
-* Got final feedback for models 
-* Remake of models 
-* Research on FMEA plugin
-
-**01/12/2023**
-* First customer meeting of the semester
-* Established final goals for the semester
-* Feedback on last semester deliverables
-
-**01/15/2024**
-* Started the rework of models 
-* Plan on how to remodel all the models
-
-**01/20/2024**
-* Started research on the FMEA plugin 
-* Read papers and some lit review on the topic
-
-**01/30/2024**
-* A basic understanding of FMEA was reached and presented to team 
-* Most models were remade
-
-**02/13/2024**
-* Spoke to Kathryn(customer) to get feedback on newer models and begin the FMEA process
-* All models were good, with minor tweaks
-
-
-In this sprint, the team started by having a meeting our customer to decide on what we needed to do for the semester. We looked over what we did last semester, got some feedback, and then we go to work on redoing our models based on what we learned. Alongside that, I started digging into this FMEA plugin – a bunch of reading and trying to wrap my head around it. By the end of the month, I got a decent grip on FMEA and shared the gist with the team. Most of the models were already in a good place by then. Fast forward to mid-February, and after a catch-up with Kathryn, our customer, it turns out we're on the right track with the models, just needed a few tweaks here and there.
-
-## Sprint 2
-
-**02/14/2024**
-* Worked on the small model mistakes shown by Kathryn.
-* Started producing requirements based on stakeholder needs for both the subsystem level and component level of the system. 
-
-**02/15/2024**
-* Met with Kathryn once more to check on the generated requirements
-* Workstation to understand the FMEA plugin
-* Started the FMEA work 
