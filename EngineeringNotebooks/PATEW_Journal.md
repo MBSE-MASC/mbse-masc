@@ -4,10 +4,32 @@ This serves as a personal documentation of the things that happened during the c
 ## Semester Two
 
 ### Sprint One
-Coming into the new semester, our focus was on recreating some of the previous models with new influence from our customer and researching the FMEA plugin for our system.
+Coming into the new semester, our focus was on recreating some of the previous models with new influence from our customer and researching the FMEA plugin for our system. We also needed to discuss with our customer the expect deliverable at the end of the semester. 
+
+**01/12/2023**
+
+* We had our first meeting of the semester with customer
+* Customer advised us that our models needed some rework
+* Started the discussion about FMEA
+
+**01/15/2024**
+
+* Started to work with Luke on remodeling models
+* Distributed the workload between team members
+
+**01/30/2024**
+
+* Most models are in a good state with a few in exception
+* Still not to sure on the proper modeling for Concecptual Subsystem
+* Teammember helped me with the installation of FMEA plugin for next Sprint
+
+**02/03/2024**
+
+* New meeting with customer scheduled
+* All models finished 
 
 #### My tasks
-My main focus was working with Luke on redoing the models. We used previous feedback and made needed changes to prepare our final problem domain for analysis
+My main focus was working with Luke on redoing the models. We used previous feedback and made needed changes to prepare our final problem domain for analysis. 
 
 #### Blockers
 Our main blocker this sprint was dealing with new, changing schedules and trying to reevaluate on what our team's priorities should be. There were a couple of directions that we have to evaluate and decide between for the rest of our work.
@@ -16,7 +38,7 @@ Photo of old / new diagrams:
 ![Model Redo](./resources/model_redo.PNG)
 
 #### Reflection
-Although this semester started a bit slow on tasks, we met with our customer multiple times and were able to get a very strong start on this semester. I think we will be able to easily accompish the overall goals we set for this semester. Next sprint, we will begin implementing the FMEA analysis plugin and will hopefully be able to generate an accurate fault tree for our model!
+Although it was rough coming back to this semester, due to difference in schedule from last semester and all members dealing with graduation credit approvals, we still got to meet with our customer multiple times and were able to get a very strong start on this semester. I think we will be able to easily accompish the overall goals we set for this semester. Next sprint, we will begin implementing the FMEA analysis plugin and will hopefully be able to generate an accurate fault tree for our model!
 
 Number of client meetings: ~3
 Number of team meetings: ~8
