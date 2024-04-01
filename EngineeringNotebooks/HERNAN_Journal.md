@@ -48,8 +48,45 @@ In this sprint, the team started by having a meeting our customer to decide on w
 **02/15/2024**
 * Met with Kathryn once more to check on the generated requirements
 * Workstation to understand the FMEA plugin
-* Started the FMEA work 
+* Started the FMEA work
 
+**02/20/2024**
+* Meet with Team for Sprint Deliverables
+* Assessed with customer about how to start FMEA Table
+
+**02/24/2024**
+* Met with team, including client, and reviewed FMEA items generated
+* Helped with the creation of Sprint's 2 presentation
+
+**03/04/2024**
+* Client meeting for guidance on how to deliver a good presentation
+* Finalized FMEA Table for presentation worthy 
+
+**03/05/2024**
+* Presented our progress so far, lots of good feedback from both professors and students. 
+
+03/09/2024 - 03/16/2024
+* I mean... Spring Break
+
+Overall I think Sprint 2 was very important for the team as we were able to finally start the makings of FMEA items which is what our focus really was since the beginning. We separated our work properly to make sure to update the necessary documents to reflect our FMEA generation. We tried to put more work into our presentation this time as we have received prior feedback on how boring they were and how we never overlayed our point. I believe we did a much better job this time and our customer helped us a lot to find a good ground to present our models not in a boring way. 
+
+
+## Sprint Three
+
+
+**3/17/2024**
+* Quick look into the sprint, things needed and praising ourselves for prior sprints achievements
+
+**3/20/2024**
+*Client follow-up meeting
+*Got comments from our last presentation 
+*Fixed a path to follow and finalize project. 
+
+**3/28/2024**
+* Meeting with client
+* Finalize most of models
+* Got feedback on how to fill the FMEA Table even more
+* Everything looking good so far 
 
 
 # Semester 1 Journal 
