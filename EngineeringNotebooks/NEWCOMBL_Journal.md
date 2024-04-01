@@ -118,3 +118,7 @@ Today we had a follow-up meeting with Kathryn again checking the new work we did
 ## 3/31/2024
 
 Today Walter and I worked a little bit more on performing the hazard analysis portion of the FMEA table.
+
+## 4/01/2024
+
+Today we all met and finished up the FMEAs I think for good so that we can work on th final presentation. We set up a meeting with Kathryn for tomorrow to finally complete our model and start fully working on our presentation. We added a navigation bar to our powerpoint to hopefully aid in seeing where we are.
