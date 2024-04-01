@@ -1,6 +1,7 @@
 # Semester 1
 
 ## 10/23/2023
+
 Continuing on the context diagram. Trying to also revise the stakeholder needs past our initial list.
 
 I learned that Git merges aren’t going to work for our project, but I figured out the Magic System of Systems Architect project merge feature, and the 3-way merge is ideal for our project and will work for concurrent work.
@@ -9,6 +10,7 @@ I learned that Git merges aren’t going to work for our project, but I figured 
 I created the beginnings of our real system context diagram from our plan.
 
 ## 10/26/2023
+
 We met with Akbas and the TA about our project and had our scrum meeting in class.
 
 MagicDraw doesn’t like to merge unrelated projects, and it was faster to re-create my context diagram in Shawn’s project instead of merging them.
@@ -16,16 +18,19 @@ MagicDraw doesn’t like to merge unrelated projects, and it was faster to re-cr
 We finished the first draft of our system context diagram.
 
 ## 10/27/2023
+
 We met with Kathryn to discuss our system context diagram and how to move forward. She told us that our system context looked good, and we just needed to modify our stakeholder needs to be more uniform and use “the system should” instead of “I need.”
 
 We modified the system context diagram a bit, changing arriving and departing crew to just be a bidirectional “crew” arrow.
 
 ## 10/30/2023
+
 Today the team met briefly to move forward with the use case diagram. We found out that we did the system context incorrectly even though Kathryn said that it looked good. We have kept that in mind and are following the MagicGrid book of knowledge until we can have another meeting with Kathryn to discuss what she thinks about any discrepancies.
 
 I fixed the system context diagram by changing the stereotype/type of the various external systems away from “External System” which seemed right, but was actually something left in from the MagicGrid v2 template from the car example. We need to create new Actors as blocks and set the type of each Part Property in the system context to each corresponding actor type. Then we could drag the actors directly onto the use case diagram and it worked fine.
 
 ## 10/31/2023
+
 I worked on our Sprint 2 demo presentation throughout the morning adding our current work as best as I could. Yesterday the rest of the team worked on creating a use case diagram, or at least the start of one. By the looks of the email that they sent Kathryn they were a bit confused, as I was. It has a use case, and there is a corresponding high-level activity diagram describing what is happening in the use case, and it involves all of the actors in the system. It looks good. My current priority is to understand how that was created, and work on the presentation.
 
 Added our 2nd presentation slides to the GitHub repository
@@ -37,7 +42,6 @@ We created and added the Sprint 2 Demo presentation to the GitHub repository
 ## 11/01/2023
 
 Today we identified and categorized our stakeholder requirements and created the measures of effectiveness from the model's current nonfunctional requirements. It was a bit of a challenge figuring out how to assign different measures different unites but we figured it out.
-
 
 ## 11/03/2023
 
@@ -94,3 +98,23 @@ Today the team met together to work and focus on improving the model. Shawn and 
 This morning we met with Kathryn again to see if we were implemeting her advice correctly. I had to present our model as Kathryn wasn't there. I enjoyed it and I think it went a little bit more efficiently. She explained a lot and we learned a lot of valuable information. The issue we had with our stakeholder needs table she didn't like and also couldn't figure out. It is possible that it is an issue with the tool itself. We learned a lot more about how to do FMEA and we got a really good starting explanation. I got a hands-on tutorial. We learned more about requirements tracing and she liked all of the work we did yesterday. The next steps are just to take things a lot further.
 
 I took the liberty of merging all of our changes from all of those meetings and it was relatively painless.
+
+## 2/29/2024
+
+Today we met with Kathryn in order to have her check our work that we did on FMEAs and our requirements traceability.
+
+## 3/04/2024
+
+Today we met with Kathryn and had her check our sprint 2 demo presentation for accuracy. The meeting was fairly successful although we should have had more of it done beforehand. She liked what we had to say and told us to include more graphics. 
+
+## 3/05/2024
+
+Today we gave our sprint 2 presentation. We were over time by a little bit but everyone seemed to be okay with it and we got a lot of good questions. Some notes for the next one are that we need to improve how we describe moving through our model, we need some sort of "map".
+
+## 3/29/2024
+
+Today we had a follow-up meeting with Kathryn again checking the new work we did on our FMEAs and ideas for the final presentation. She wants us to virtually present to one of her classes as practice for the final.
+
+## 3/31/2024
+
+Today Walter and I worked a little bit more on performing the hazard analysis portion of the FMEA table.
