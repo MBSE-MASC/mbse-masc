@@ -1,6 +1,6 @@
 # Clay's Engineering Notebook
 This serves as a personal documentation of the things that happened during the course of the semester. Semester two is listed above semester one for ease of reading.
-
+_____________________________________________________________________________________________________________
 ## Semester Two
 
 ### Sprint One
@@ -38,11 +38,67 @@ Photo of old / new diagrams:
 ![Model Redo](./resources/model_redo.PNG)
 
 #### Reflection
-Although it was rough coming back to this semester, due to difference in schedule from last semester and all members dealing with graduation credit approvals, we still got to meet with our customer multiple times and were able to get a very strong start on this semester. I think we will be able to easily accompish the overall goals we set for this semester. Next sprint, we will begin implementing the FMEA analysis plugin and will hopefully be able to generate an accurate fault tree for our model!
+This semester was very different in schedule from last semester, we still got to meet with our customer multiple times and were able to get a very strong start on this semester. I think we will be able to easily accompish the overall goals we set for this semester. Next sprint, we will begin implementing the FMEA analysis plugin and will hopefully be able to generate an accurate fault tree for our model!
 
 Number of client meetings: ~3
 Number of team meetings: ~8
 Next Priority: Learn FMEA tool
+
+### Sprint Two
+This sprint, we worked mainly on generating fault items as well as finishing up the final diagrams we needed.
+
+**02/14/2024**
+* We met with the client and evaluated feedback on our models
+* Worked to redefine stakeholder needs
+
+**02/15/2024**
+* Client meeting to go over FMEA plugin tool
+
+**02/20/2024**
+* Team meeting to cover progress and work on initial FMEA items
+
+**02/24/2024**
+* Team meeting for making a presentation for sprint two
+* Worked on documentation overhaul based on TA feedback
+
+**03/04/2024**
+* Meeting with client to go over presentation guidlines
+* Test presentation
+
+**03/05/2024**
+* Delivered sprint 2 presentation to class and professor.
+* Overall, we rececived pretty positive feedback, and have a good idea on how our final presentation will look.
+
+**03/09/2024 - 03/16/2024**
+* ERAU spring break, decent work completed individually, but no team meeting
+
+#### Reflection / Blockers
+Overall our work is going fairly well. My tasks have been mainly on adding the safety requirements based on our generated FMEA items. We did not meet as often with our client during this sprint which slowed us down a bit on getting feedback, but overall we were able to move items arround to accomidate for times when our client was unavaiable.
+
+### Sprint Three
+This is the last working semester of the project, our main goal is to finish our FMEA items and overhaul our documentation a final time. Based on client feedback we will be able to reach our goal by the end of the semester.
+
+**3/17/2024**
+* Team progess meeting, discussed sprint 3 goals.
+
+**3/20/2024**
+* Client recap meeting
+* Final feedback for models received
+* More work on FMEA items needed
+
+**3/28/2024**
+* Meeting with client
+* All models finished
+* FMEA items look good
+* Putting together final analysis on model
+* Discussed final presentation and documentation deliverable plans
+* Possible plans to present MBSE to client's classroom
+
+**3/30/2024**
+* Virtual team progress meeting
+
+_____________________________________________________________________________________________________________
+
 
 ## Semester One
 ### Sprint One
