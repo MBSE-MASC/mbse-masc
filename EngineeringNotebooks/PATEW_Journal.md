@@ -96,7 +96,23 @@ This is the last working semester of the project, our main goal is to finish our
 
 **3/30/2024**
 * Virtual team progress meeting
+* * we were asked by the client to prepare a presentation to show in a classroom setting
 
+**4/10/2024**
+* Delivered virtual presentation to client's classroom enviroment
+
+**4/15/2024**
+* Team meeting to adapt previous presentation to our final sprint presentation
+
+**4/18/2024**
+* Delievered final sprint presentation within our classroom
+
+**4/25/2024**
+* Final team meeting to wrap up loose changes
+* Delivered final model to client and completed project retrospective to review our work over the past year
+
+## Final Project Reflection
+For this project, we were tasked with using MagicDraw within the context of a cislunar space station to determine the usability and feasability of Model Based Systems Engineering, with a focus on the avionics subsystem of the spacecraft. From this, we created multiple views of our model as we learned more about the problem domain. We generated requirements based on NASA's gateway system and analyzed the model in the context of redundant safety on the system of interest. Overall, we found the project to be a success. We were able to create and explore different parts of our model in parallel and created traces between all parts of our model. When requirements were modified, the changes propigated throughout the whole model automatically. Our team strongly reccomends MagicDraw as the solution to keeping up with constant changes in requirements and documentation within a system of interest, fit for small hobby teams or department wide organizations.
 _____________________________________________________________________________________________________________
 
 
@@ -163,5 +179,5 @@ reach our final goal of delivering the project domain of the CCS by the end of t
 #### End of semester
 During this sprint we had a lot of blockers but we were able to finish everything on time. My main tasks this sprint were wokring on the new scenario, functional analysis, and generating requirements of our team as a customer of MagicDraw and MBSE.
 
-## Final Reflection
+## Semester Reflection
 Overall, this project served as a great learning expirence for me. Before this class I only learned UML-style modeling, and only as a precursor to implementing a solution. In this class, I worked exclusively on the design portion of the ccs system, and needed to fully flesh out our model without wriitng any code. I think this project allowed me to learn more about the SYSE process but also made me better at SE, specifically when it comes to eliciting requirements and validating our models.
